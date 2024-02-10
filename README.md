@@ -1,6 +1,6 @@
 ## `XLICON-MD`
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝" alt="Typing SVG" /></a>
   
   
 <p align="center">
@@ -22,7 +22,7 @@
 <a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝ :: Visitor's Count" /></p>
 
 </br>
 
@@ -97,8 +97,8 @@ After this fill the vars by your own information and paste this JSON to your Rep
 ```
 {
   "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "SalmanAhmad",
+  "OWNER_NUMBER": "94763406787",
+  "OWNER_NAME": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝"
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
   "PACK_INFO": "WABOT;Xlicon",
@@ -124,7 +124,7 @@ Choose your repo
 
 
 4.Deploy On Vps
-[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
+[Deploy on VPS or PC.](https://github.com/SithumEshan45/XLICON-MD/blob/main/deploy-on-vps.md)
 
 
   ........................................................
