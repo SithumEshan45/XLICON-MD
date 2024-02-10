@@ -42,7 +42,7 @@ module.exports = {
   HEROKU: {
     HEROKU: process.env.HEROKU ||true,
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '603b2ce8-d6134f9f-98e2-b7a1c30f0db3' : process.env.HEROKU_API_KEY,
-    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
+    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'sithumeshan455sithumeshan455' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
   LANG: process.env.THEME|| 'GOJO',
