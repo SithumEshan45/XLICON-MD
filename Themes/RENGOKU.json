@@ -1,7 +1,7 @@
 
 {
     "_JSON_": true,
-    "AUTHOR": "🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️⃝™",
+    "AUTHOR": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "Fresh Updates Installed!"
         },
         "global": {
-            "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️⃝™",
+            "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
 
             "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
             "greet2" : "AYOO BRO!", 
@@ -27,17 +27,17 @@
             "emijii" : "🍒",
             "promote": "A new worthy HASHIRA arrived",
             "pmallow": "Hii,This is RENGOKU\n*A BIG Brother of my Nii-Chan.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU_",
-            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU*",
-            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU", 
-            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
             "demote": "You are not Worthy",
             "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU*",
             "mention": " Please mention any user Bro🥲",
             "title": "RENGOKU",
             "footer": "KYOJIRO-RENGOKU",
-            "by": "Made by: CitelVoid",
+            "by": "Made by: ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
             "dot": "HEY BRO🥳, Why don't you try .help",
