@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️",
+  "AUTHOR": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
   "theme": "Ayanokji-kiyotaka",
   "LANGUAGE": "English",
   "LANGCODE": "en",
@@ -11,7 +11,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       }, 
       "global": {
-          "botName": "I⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️",
+          "botName": "I⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Hey Dude",
           "pic1": "https://telegra.ph/file/089817259a78d6d2c89b6.jpg",
@@ -33,8 +33,8 @@
           "antlink": "Link Detected.\n*Good Bye Dude*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 AYANOKOJI*",
           "mention": " Please mention any user Darling",
-          "title": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️",
-          "footer": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️",
+          "title": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
+          "footer": "⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝",
           "by": "Made by: *citelvoid*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
