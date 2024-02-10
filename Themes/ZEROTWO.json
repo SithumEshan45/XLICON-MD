@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "SalmanytOfficial",
+  "AUTHOR": "🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️⃝™",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,8 +10,8 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "greet2": "Konnichiwa!(💚ω💚)",
-          "botName": "Powered by Zero Two",
+          "greet2": "Kon(💚ω💚)",
+          "botName": "Powered by 🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️⃝™",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡𝑡𝑜", 
           "pic1": "https://telegra.ph/file/f53aa1ed06e5231bd92c6.jpg",
           "pic2": "https://telegra.ph/file/4405a034c0c24b9297eb4.jpg",
@@ -32,8 +32,8 @@
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐*",
           "mention": " Please mention any user Darling",
-          "title": "𝐙𝐞𝐫𝐨 𝐓𝐰𝐨",
-          "footer": "𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝",
+          "title": "🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️⃝™",
+          "footer": "🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡❤️⃝™",
           "by": "Made by: *CitelVoid*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
